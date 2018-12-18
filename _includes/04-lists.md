@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Altered Carbon
+* Shining
+* Darth Bane
+ * Path of Destruction
+ * Rule of Two
+ * Dynasty of Evil
